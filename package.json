@@ -1,0 +1,19 @@
+{
+  "name": "@heymackey/heymackey",
+  "version": "1.0.0",
+  "description": "This is a test of the GitHub Package Registry System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heymackey/heymackey.git"
+  },
+  "author": "Daniel Mackey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heymackey/heymackey/issues"
+  },
+  "homepage": "https://github.com/heymackey/heymackey#readme"
+}
